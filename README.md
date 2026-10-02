@@ -63,4 +63,9 @@ VLOOKUP and CONCAT were used to retrieve transaction information and combine dat
 
 ![](assets/sales-vlookup.png)
 
+## Business Value
+ 
+This analysis highlights purchasing trends across different demographics and product categories.
+ 
+The findings could help businesses identify their strongest customer segments, tailor marketing strategies to specific audiences, and target underperforming demographics with promotions or new product offerings.
 
